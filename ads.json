@@ -5,12 +5,16 @@
     "seedEDBqu63tJ7PFqvcbwvThrYUkQeqT6NLf81kLibs",
     "AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1"
   ],
-  "sideAds1": {
-    "banner": "https://media0.giphy.com/media/IedTLY3sNu1SmZoPTD/giphy.gif?cid=ecf05e47anznxa3ynmt6dfkxx4dhejoln3803fuif1tkh5ic&rid=giphy.gif&ct=g",
-    "link": "https://giphy.com/"
-  },
-  "sideAds2": {
-    "banner": "https://media3.giphy.com/media/0XJeBn8nx6HDwdWIDg/giphy.gif?cid=ecf05e4787jlwr14bzvm15fuwb31miigrm7ob4r7pbe52nf9&rid=giphy.gif&ct=g",
-    "link": "https://giphy.com/"
-  }
+  "sideAds1": [
+    {
+      "banner": "https://media0.giphy.com/media/IedTLY3sNu1SmZoPTD/giphy.gif?cid=ecf05e47anznxa3ynmt6dfkxx4dhejoln3803fuif1tkh5ic&rid=giphy.gif&ct=g",
+      "link": "https://giphy.com/"
+    }
+  ],
+  "sideAds2": [
+    {
+      "banner": "https://media3.giphy.com/media/0XJeBn8nx6HDwdWIDg/giphy.gif?cid=ecf05e4787jlwr14bzvm15fuwb31miigrm7ob4r7pbe52nf9&rid=giphy.gif&ct=g",
+      "link": "https://giphy.com/"
+    }
+  ]
 }
