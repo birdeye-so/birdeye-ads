@@ -33,5 +33,10 @@
         "name": "Helio",
         "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/helio.png",
         "url": "https://helio.co/"
+    },
+    {
+        "name": "Vyper",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/vyper.png",
+        "url": "https://www.vyperprotocol.io/"
     }
 ]
