@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Backpack",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/backpack.png",
+        "url": "https://www.backpack.app/"
+    },
+    {
+        "name": "Jupiter",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/jupiter.png",
+        "url": "https://jup.ag"
+    },
+    {
+        "name": "Prism",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/prism.png",
+        "url": "https://prism.ag"
+    },
+    {
+        "name": "Mango",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/mango.png",
+        "url": "https://mango.markets/"
+    },
+    {
+        "name": "Ultimate",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/ultimate.png",
+        "url": "https://ultimate.app/"
+    },
+    {
+        "name": "Step Finance",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/stepfinance.png",
+        "url": "https://www.step.finance/"
+    },
+    {
+        "name": "Helio",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/helio.png",
+        "url": "https://helio.co/"
+    },
+    {
+        "name": "Vyper",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/vyper.png",
+        "url": "https://www.vyperprotocol.io/"
+    }
+]
