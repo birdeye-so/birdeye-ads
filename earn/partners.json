@@ -1,0 +1,10 @@
+{
+  "partner1Id": {
+    "id": "partner1Id",
+    "icon": "part1Icon",
+    "name": "part1name",
+    "tokens": {
+      "tokenSymbol": "tokenUrl"
+    }
+  }
+}
