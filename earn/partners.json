@@ -1,10 +1,10 @@
 {
-  "partner1Id": {
-    "id": "partner1Id",
-    "icon": "part1Icon",
-    "name": "part1name",
+  "kamino": {
+    "id": "kamino",
+    "icon": "kamino",
+    "name": "Kamino Finance",
     "tokens": {
-      "tokenSymbol": "tokenUrl"
+      "DUST": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST"
     }
   }
 }
