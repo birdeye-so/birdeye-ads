@@ -1,7 +1,7 @@
 {
   "kamino": {
     "id": "kamino",
-    "icon": "kamino",
+    "icon": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/e1d318295f96f6a91adc49230dbc860ca4f2d0af/earn/logo/kamino.png",
     "name": "Kamino Finance",
     "tokens": {
       "DUST": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST"
