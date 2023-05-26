@@ -1,10 +1,18 @@
 {
   "kamino": {
     "id": "kamino",
-    "icon": "kamino",
+    "icon": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/earn/logo/kamino.png",
     "name": "Kamino Finance",
     "tokens": {
-      "DUST": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST"
+      "DUST": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST",
+      "RLB": "https://app.kamino.finance/liquidity/rlb-sol-raydium/AepjvYK4QfGhV3UjSRkZviR2AJAkLGtqdyKJFCf9kpz9?utm_source=Birdeye&utm_medium=Vault&utm_campaign=RLB",
+      "Bonk": "https://app.kamino.finance/liquidity/bonk-sol-orca/HWg7yB3C1BnmTKFMU3KGD7E96xx2rUhv4gxrwbZLXHBt?utm_source=Birdeye&utm_medium=Vault&utm_campaign=BONK",
+      "HADES": "https://app.kamino.finance/liquidity/hades-sol-orca/46HF3cV4JBkbPbiT6HsXMkBh9qLsmifLzt8F8iNcPdnv?utm_source=Birdeye&utm_medium=Vault&utm_campaign=HADES",
+      "SAMO": "https://app.kamino.finance/liquidity/samo-sol-orca/GscnFgC7WLpgcg8Mop3bX6g7jRvwaQ2BUa564pdimwUW?utm_source=Birdeye&utm_medium=Vault&utm_campaign=SAMO",
+      "WETH": "https://app.kamino.finance/liquidity/msol-eth-orca/F3v6sBb5gXL98kaMkaKm5GfEoBNUaSd3ZGErbjqgzTho?utm_source=Birdeye&utm_medium=Vault&utm_campaign=ETH",
+      "USDH": "https://app.kamino.finance/liquidity/sol-usdh-orca/CYLt3Bs51QT3WeFhjtYnPGZNDzdd6SY5vfUMa86gT2D8?utm_source=Birdeye&utm_medium=Vault&utm_campaign=USDH",
+      "USDC_sol": "https://app.kamino.finance/liquidity/usdt-usdc-orca/98kNMp1aqWoYAaUU8m5REBAYVwhFb4aX9yoSpgq8kUFu?utm_source=Birdeye&utm_medium=Vault&utm_campaign=USDC",
+      "USDCet": "https://app.kamino.finance/liquidity/usdcet-usdc-orca/EoXt4R1gyuPY8PZmXL95rgecszERmCqVfnxue6QpwpyX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=USDCet"
     }
   }
 }
