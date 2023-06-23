@@ -1,5 +1,15 @@
 [
     {
+        "name": "1inch",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/1inch.png",
+        "url": "https://1inch.io/"
+    },
+    {
+        "name": "Kyber Network",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/kyber.png",
+        "url": "https://kyberswap.com/"
+    },
+    {
         "name": "Backpack",
         "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/backpack.png",
         "url": "https://www.backpack.app/"
@@ -38,5 +48,16 @@
         "name": "Vyper",
         "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/vyper.png",
         "url": "https://www.vyperprotocol.io/"
+    },
+    {
+        "name": "Poolz",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/poolz.png",
+        "url": "https://poolz.finance/"
+    },
+    {
+        "name": "DAOStarter",
+        "logo": "https://github.com/birdeye-so/birdeye-ads/raw/main/partners/icon/daostarter.png",
+        "url": "https://www.daostarter.pro/"
     }
+
 ]
