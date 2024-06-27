@@ -1,0 +1,50 @@
+{
+  "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ": {
+    "symbol": "DUST",
+    "name": "DUST Protocol",
+    "address": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ",
+    "icon": "https://img.fotofolio.xyz/?url=https%3A%2F%2Fgateway.pinata.cloud%2Fipfs%2FQmb5qNLPhR8fJaz5MN1W55iSCXdNgMMSdWn94Z9oiFjw3o",
+    "orderFeature": [
+      {
+        "platform": {
+          "id": "kamino",
+          "name": "Kamino Finance",
+          "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/earn/logo/kamino.png"
+        },
+        "href": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST",
+        "tag": "yield"
+      },
+      {
+        "platform": {
+          "id": "marginfi",
+          "name": "Marginfi Finance",
+          "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/earn/logo/kamino.png"
+        },
+        "href": "https://app.kamino.finance/liquidity/dust-sol-orca/A4ufgHTe3jLzxbR6sDdrZhLxNdR1Lw2ija1uEdDFLPbX?utm_source=Birdeye&utm_medium=Vault&utm_campaign=DUST",
+        "tag": "yield"
+      },
+      {
+        "platform": { "id": "backpack", "name": "Backpack", "logo": "" },
+        "href": "",
+        "tag": "exchange"
+      }
+    ]
+  },
+  "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a": {
+    "symbol": "RLB",
+    "name": "Rollbit Coin",
+    "address": "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a",
+    "icon": "https://img.fotofolio.xyz/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolana-labs%2Ftoken-list%2Fmain%2Fassets%2Fmainnet%2FRLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a%2Flogo.png",
+    "orderFeature": [
+      {
+        "platform": {
+          "id": "kamino",
+          "name": "Kamino Finance",
+          "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/earn/logo/kamino.png"
+        },
+        "href": "https://app.kamino.finance/liquidity/rlb-sol-raydium/AepjvYK4QfGhV3UjSRkZviR2AJAkLGtqdyKJFCf9kpz9?utm_source=Birdeye&utm_medium=Vault&utm_campaign=RLB",
+        "tag": "yield"
+      }
+    ]
+  }
+}
