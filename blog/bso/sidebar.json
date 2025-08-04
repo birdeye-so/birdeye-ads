@@ -4,19 +4,22 @@
       "name": "Wallet Tags",
       "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     },
     {
       "name": "Find Gems",
       "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     },
     {
       "name": "Alert",
       "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     }
   ],
   "services": [
@@ -24,39 +27,45 @@
       "name": "Token Data",
       "desc": "Search anything onchain.User our APIs for advanced searches, filtering tailored queries with highly processed token and wallet data.",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     },
     {
       "name": "DEFI Data",
       "desc": "Flexible data types to power any DeFi use case. Birdeye provides key forms of instantaneous token prices to dApps, DEXs, and other platforms.",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     },
     {
       "name": "Wallet Data",
       "desc": "Add real-time prices, transaction data and security checks to your users can trade emerging crytocurrencies as soon as they hit the market.",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": ""
     }
   ],
   "events": [
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "name": "Unlock",
+      "desc": "Jelly Jelly will unlock 276,000 tokens - 0.12% of Total Supply",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": "10 / 07 / 2025"
     },
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "name": "Interest Rate",
+      "desc": "FED will amounce the newest interest rate",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": "10 / 07 / 2025"
     },
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "name": "Core CPI m/m",
+      "desc": "The newest Core CPI m/m",
       "url": "",
-      "icon": ""
+      "icon": "",
+      "date": "10 / 07 / 2025"
     }
   ]
 }
