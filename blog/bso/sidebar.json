@@ -1,0 +1,62 @@
+{
+  "features": [
+    {
+      "name": "Wallet Tags",
+      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Find Gems",
+      "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Alert",
+      "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
+      "url": "",
+      "icon": ""
+    }
+  ],
+  "services": [
+    {
+      "name": "Token Data",
+      "desc": "Search anything onchain.User our APIs for advanced searches, filtering tailored queries with highly processed token and wallet data.",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "DEFI Data",
+      "desc": "Flexible data types to power any DeFi use case. Birdeye provides key forms of instantaneous token prices to dApps, DEXs, and other platforms.",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Wallet Data",
+      "desc": "Add real-time prices, transaction data and security checks to your users can trade emerging crytocurrencies as soon as they hit the market.",
+      "url": "",
+      "icon": ""
+    }
+  ],
+  "events": [
+    {
+      "name": "Wallet Tags",
+      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Wallet Tags",
+      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Wallet Tags",
+      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "url": "",
+      "icon": ""
+    }
+  ]
+}
