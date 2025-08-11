@@ -3,24 +3,24 @@
     {
       "name": "Wallet Tags",
       "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
-      "url": "",
-      "target": "",
+      "url": "https://birdeye.so/terminal/label",
+      "target": "_blank",
       "icon": "",
       "date": ""
     },
     {
       "name": "Find Gems",
       "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
-      "url": "",
-      "target": "",
+      "url": "https://birdeye.so/find-gems?chain=all",
+      "target": "_blank",
       "icon": "",
       "date": ""
     },
     {
       "name": "Alert",
       "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
-      "url": "",
-      "target": "",
+      "url": "https://birdeye.so/terminal/alert",
+      "target": "_blank",
       "icon": "",
       "date": ""
     }
@@ -58,7 +58,7 @@
       "url": "",
       "target": "",
       "icon": "",
-      "date": "10 / 07 / 2025"
+      "date": "July 22, 2025"
     },
     {
       "name": "Interest Rate",
@@ -66,7 +66,7 @@
       "url": "",
       "target": "",
       "icon": "",
-      "date": "10 / 07 / 2025"
+      "date": "July 22, 2025"
     },
     {
       "name": "Core CPI m/m",
@@ -74,7 +74,7 @@
       "url": "",
       "target": "",
       "icon": "",
-      "date": "10 / 07 / 2025"
+      "date": "July 22, 2025"
     }
   ]
 }
