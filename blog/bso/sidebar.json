@@ -24,25 +24,25 @@
   ],
   "services": [
     {
-      "name": "Token Data",
-      "desc": "Search anything onchain.User our APIs for advanced searches, filtering tailored queries with highly processed token and wallet data.",
-      "url": "",
+      "name": "Expansive data",
+      "desc": "Birdeye provides expansive data covering tokens, wallets, trades, and protocols across 300+ exchanges on 10 chains.",
+      "url": "https://bds.birdeye.so/types-of-data",
       "target": "",
       "icon": "",
       "date": ""
     },
     {
-      "name": "DEFI Data",
-      "desc": "Flexible data types to power any DeFi use case. Birdeye provides key forms of instantaneous token prices to dApps, DEXs, and other platforms.",
-      "url": "",
+      "name": "Flexible pricing",
+      "desc": "Whether you’re a solo tinkerer or a large team looking to scale, Birdeye offers plans that caters for your data needs and budget.",
+      "url": "https://bds.birdeye.so/pricing",
       "target": "",
       "icon": "",
       "date": ""
     },
     {
-      "name": "Wallet Data",
-      "desc": "Add real-time prices, transaction data and security checks to your users can trade emerging crytocurrencies as soon as they hit the market.",
-      "url": "",
+      "name": "API docs",
+      "desc": "Dive into our docs and start querying data on 60+ APIs and 8 WebSocket types today!",
+      "url": "https://docs.birdeye.so/reference/get-defi-price",
       "target": "",
       "icon": "",
       "date": ""
