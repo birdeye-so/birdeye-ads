@@ -2,21 +2,21 @@
   "features": [
     {
       "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
+      "desc": "Wallet Tags is a feature that allows users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, Chef,...",
       "url": "/terminal/label",
       "icon": "",
       "date": ""
     },
     {
       "name": "Find Gems",
-      "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
+      "desc": "Find Gems is a feature that helps users identify potential Tokens at the current time.",
       "url": "/find-gems?chain=all",
       "icon": "",
       "date": ""
     },
     {
       "name": "Alert",
-      "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
+      "desc": "Alert is a feature that allows users to set up notifications for the types of information they want to receive.",
       "url": "/terminal/alert",
       "icon": "",
       "date": ""
@@ -50,28 +50,25 @@
   ],
   "events": [
     {
-      "name": "Unlock",
-      "desc": "Jelly Jelly will unlock 276,000 tokens - 0.12% of Total Supply",
-      "url": "",
+      "name": "Orca Launches Wavebreak",
+      "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
+      "url": "https://x.com/orca_so/status/1950286924754931764",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
     },
     {
-      "name": "Interest Rate",
-      "desc": "FED will amounce the newest interest rate",
-      "url": "",
+      "name": "RWAs on Solana Surge",
+      "desc": "A report by Messari shows 140% year-to-date growth",
+      "url": "https://messari.io/report/state-of-solana-real-world-assets",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
     },
     {
-      "name": "Core CPI m/m",
-      "desc": "The newest Core CPI m/m",
-      "url": "",
+      "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
+      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy",
+      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
     }
   ]
 }
