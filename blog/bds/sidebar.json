@@ -53,31 +53,31 @@
   ],
   "events": [
     {
-      "name": "Unlock",
-      "desc": "Jelly Jelly will unlock 276,000 tokens - 0.12% of Total Supply",
+      "name": "Orca Launches Wavebreak",
+      "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
        "nofollow": true,
-      "url": "",
+      "url": "https://x.com/orca_so/status/1950286924754931764",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     },
     {
-      "name": "Interest Rate",
-      "desc": "FED will amounce the newest interest rate",
+      "name": "RWAs on Solana Surge",
+      "desc": "A report by Messari shows 140% year-to-date growth",
        "nofollow": true,
-      "url": "",
+      "url": "https://messari.io/report/state-of-solana-real-world-assets",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     },
     {
-      "name": "Core CPI m/m",
-      "desc": "The newest Core CPI m/m",
+      "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
+      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy.",
        "nofollow": true,
-      "url": "",
+      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     }
   ]
 }
