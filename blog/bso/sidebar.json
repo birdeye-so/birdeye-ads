@@ -55,12 +55,14 @@
       "url": "https://x.com/orca_so/status/1950286924754931764",
       "target": "",
       "icon": "",
+       "nofollow": true,
       "date": ""
     },
     {
       "name": "RWAs on Solana Surge",
       "desc": "A report by Messari shows 140% year-to-date growth",
       "url": "https://messari.io/report/state-of-solana-real-world-assets",
+       "nofollow": true,
       "target": "",
       "icon": "",
       "date": ""
@@ -69,6 +71,7 @@
       "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
       "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy",
       "url": "https://x.com/adamlawrencium/status/1949206998848786447",
+       "nofollow": true,
       "target": "",
       "icon": "",
       "date": ""
