@@ -1,9 +1,9 @@
 {
   "features": [
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
-      "url": "https://birdeye.so/terminal/label",
+      "name": "Insights",
+      "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
+      "url": "https://birdeye.so/insights?chain=all",
       "target": "_blank",
       "icon": "",
       "date": ""
@@ -17,9 +17,9 @@
       "date": ""
     },
     {
-      "name": "Alert",
-      "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
-      "url": "https://birdeye.so/terminal/alert",
+      "name": "Launch Explorer",
+      "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
+      "url": "https://birdeye.so/launchpad?chain=all",
       "target": "_blank",
       "icon": "",
       "date": ""
