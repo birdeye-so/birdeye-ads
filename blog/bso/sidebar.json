@@ -1,9 +1,9 @@
 {
   "features": [
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allows users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, Chef,...",
-      "url": "/terminal/label",
+      "name": "Insights",
+      "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
+      "url": "/insights?chain=all",
       "icon": "",
       "date": ""
     },
@@ -15,9 +15,9 @@
       "date": ""
     },
     {
-      "name": "Alert",
-      "desc": "Alert is a feature that allows users to set up notifications for the types of information they want to receive.",
-      "url": "/terminal/alert",
+      "name": "Launch Explorer",
+      "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
+      "url": "/launchpad?chain=all",
       "icon": "",
       "date": ""
     }
