@@ -1,9 +1,9 @@
 {
   "features": [
     {
-      "name": "Wallet Tags",
-      "desc": "Wallet Tags is a feature that allow users to identify the type of wallet on the Crypto market. For example: Whales, Smart, Insider, Dev, chef,...",
-      "url": "https://birdeye.so/terminal/label",
+      "name": "Insights",
+      "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
+      "url": "https://birdeye.so/insights?chain=all",
       "target": "_blank",
       "icon": "",
       "date": ""
@@ -17,9 +17,9 @@
       "date": ""
     },
     {
-      "name": "Alert",
-      "desc": "Alert is feature that allows users to set up notifications for the types of information they want to receive.",
-      "url": "https://birdeye.so/terminal/alert",
+      "name": "Launch Explorer",
+      "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
+      "url": "https://birdeye.so/launchpad?chain=all",
       "target": "_blank",
       "icon": "",
       "date": ""
@@ -27,25 +27,25 @@
   ],
   "services": [
     {
-      "name": "Token Data",
-      "desc": "Search anything onchain.User our APIs for advanced searches, filtering tailored queries with highly processed token and wallet data.",
-      "url": "",
+      "name": "Expansive data",
+      "desc": "Birdeye provides expansive data covering tokens, wallets, trades, and protocols across 300+ exchanges on 10 chains.",
+      "url": "https://bds.birdeye.so/types-of-data",
       "target": "",
       "icon": "",
       "date": ""
     },
     {
-      "name": "DEFI Data",
-      "desc": "Flexible data types to power any DeFi use case. Birdeye provides key forms of instantaneous token prices to dApps, DEXs, and other platforms.",
-      "url": "",
+      "name": "Flexible pricing",
+      "desc": "Whether you’re a solo tinkerer or a large team looking to scale, Birdeye offers plans that caters for your data needs and budget.",
+      "url": "https://bds.birdeye.so/pricing",
       "target": "",
       "icon": "",
       "date": ""
     },
     {
-      "name": "Wallet Data",
-      "desc": "Add real-time prices, transaction data and security checks to your users can trade emerging crytocurrencies as soon as they hit the market.",
-      "url": "",
+      "name": "API docs",
+      "desc": "Dive into our docs and start querying data on 60+ APIs and 8 WebSocket types today!",
+      "url": "https://docs.birdeye.so/reference/get-defi-price",
       "target": "",
       "icon": "",
       "date": ""
@@ -53,28 +53,31 @@
   ],
   "events": [
     {
-      "name": "Unlock",
-      "desc": "Jelly Jelly will unlock 276,000 tokens - 0.12% of Total Supply",
-      "url": "",
+      "name": "Orca Launches Wavebreak",
+      "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
+       "nofollow": true,
+      "url": "https://x.com/orca_so/status/1950286924754931764",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     },
     {
-      "name": "Interest Rate",
-      "desc": "FED will amounce the newest interest rate",
-      "url": "",
+      "name": "RWAs on Solana Surge",
+      "desc": "A report by Messari shows 140% year-to-date growth",
+       "nofollow": true,
+      "url": "https://messari.io/report/state-of-solana-real-world-assets",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     },
     {
-      "name": "Core CPI m/m",
-      "desc": "The newest Core CPI m/m",
-      "url": "",
+      "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
+      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy.",
+       "nofollow": true,
+      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
       "target": "",
       "icon": "",
-      "date": "July 22, 2025"
+      "date": ""
     }
   ]
 }
