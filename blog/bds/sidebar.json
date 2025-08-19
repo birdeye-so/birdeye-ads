@@ -3,21 +3,24 @@
     {
       "name": "Insights",
       "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
-      "url": "/insights?chain=all",
+      "url": "https://birdeye.so/insights?chain=all",
+      "target": "_blank",
       "icon": "",
       "date": ""
     },
     {
       "name": "Find Gems",
-      "desc": "Find Gems is a feature that helps users identify potential Tokens at the current time.",
-      "url": "/find-gems?chain=all",
+      "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
+      "url": "https://birdeye.so/find-gems?chain=all",
+      "target": "_blank",
       "icon": "",
       "date": ""
     },
     {
       "name": "Launch Explorer",
       "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
-      "url": "/launchpad?chain=all",
+      "url": "https://birdeye.so/launchpad?chain=all",
+      "target": "_blank",
       "icon": "",
       "date": ""
     }
@@ -52,26 +55,26 @@
     {
       "name": "Orca Launches Wavebreak",
       "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
+       "nofollow": true,
       "url": "https://x.com/orca_so/status/1950286924754931764",
       "target": "",
       "icon": "",
-       "nofollow": true,
       "date": ""
     },
     {
       "name": "RWAs on Solana Surge",
       "desc": "A report by Messari shows 140% year-to-date growth",
-      "url": "https://messari.io/report/state-of-solana-real-world-assets",
        "nofollow": true,
+      "url": "https://messari.io/report/state-of-solana-real-world-assets",
       "target": "",
       "icon": "",
       "date": ""
     },
     {
       "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
-      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy",
-      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
+      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy.",
        "nofollow": true,
+      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
       "target": "",
       "icon": "",
       "date": ""
