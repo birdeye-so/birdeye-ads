@@ -1,0 +1,83 @@
+{
+  "features": [
+    {
+      "name": "Insights",
+      "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
+      "url": "https://birdeye.so/insights?chain=all",
+      "target": "_blank",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "Find Gems",
+      "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
+      "url": "https://birdeye.so/find-gems?chain=all",
+      "target": "_blank",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "Launch Explorer",
+      "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
+      "url": "https://birdeye.so/launchpad?chain=all",
+      "target": "_blank",
+      "icon": "",
+      "date": ""
+    }
+  ],
+  "services": [
+    {
+      "name": "Expansive data",
+      "desc": "Birdeye provides expansive data covering tokens, wallets, trades, and protocols across 300+ exchanges on 10 chains.",
+      "url": "https://bds.birdeye.so/types-of-data",
+      "target": "",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "Flexible pricing",
+      "desc": "Whether you’re a solo tinkerer or a large team looking to scale, Birdeye offers plans that caters for your data needs and budget.",
+      "url": "https://bds.birdeye.so/pricing",
+      "target": "",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "API docs",
+      "desc": "Dive into our docs and start querying data on 60+ APIs and 8 WebSocket types today!",
+      "url": "https://docs.birdeye.so/reference/get-defi-price",
+      "target": "",
+      "icon": "",
+      "date": ""
+    }
+  ],
+  "events": [
+    {
+      "name": "Orca Launches Wavebreak",
+      "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
+       "nofollow": true,
+      "url": "https://x.com/orca_so/status/1950286924754931764",
+      "target": "",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "RWAs on Solana Surge",
+      "desc": "A report by Messari shows 140% year-to-date growth",
+       "nofollow": true,
+      "url": "https://messari.io/report/state-of-solana-real-world-assets",
+      "target": "",
+      "icon": "",
+      "date": ""
+    },
+    {
+      "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
+      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy.",
+       "nofollow": true,
+      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
+      "target": "",
+      "icon": "",
+      "date": ""
+    }
+  ]
+}
