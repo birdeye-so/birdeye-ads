@@ -50,27 +50,27 @@
   ],
   "events": [
     {
-      "name": "Orca Launches Wavebreak",
-      "desc": "The launchpad features anti-bot, permissionless token creation, and creator rewards.",
-      "url": "https://x.com/orca_so/status/1950286924754931764",
+      "name": "USDC supply surpassed $80B",
+      "desc": "New insight article by Birdeye reveals USDC's breakout growth in recent years",
+      "url": "https://birdeye.so/research/detail/usdc-the-backbone-of-onchain-capital-markets",
       "target": "",
       "icon": "",
        "nofollow": true,
       "date": ""
     },
     {
-      "name": "RWAs on Solana Surge",
-      "desc": "A report by Messari shows 140% year-to-date growth",
-      "url": "https://messari.io/report/state-of-solana-real-world-assets",
+      "name": "Tokenized stocks on Solana reached daily all-time high",
+      "desc": "Data by Birdeye shows total trading volume of xStocks, PreStocks, and Ondo Global Markets on Solana peaked in March 2026",
+      "url": "https://x.com/birdeye_data/status/2039015898091303091",
        "nofollow": true,
       "target": "",
       "icon": "",
       "date": ""
     },
     {
-      "name": "Tokenized Stocks Are the Fastest-Growing RWA Class",
-      "desc": "The asset class is seeing the most adoption on Solana, according to the co-founder and CEO of RWA.xy",
-      "url": "https://x.com/adamlawrencium/status/1949206998848786447",
+      "name": "Solana launched program to enhance network security",
+      "desc": "After the Drift Protocol's hack, Solana Foundation initiated programs such as STRIDE and SIRIN to tighten security for ecosystem teams",
+      "url": "https://x.com/SolanaFndn/status/2041246400977965124",
        "nofollow": true,
       "target": "",
       "icon": "",
