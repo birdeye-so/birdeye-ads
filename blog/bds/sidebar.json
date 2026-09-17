@@ -3,7 +3,7 @@
     {
       "name": "Insights",
       "desc": "Insights is a feature that allows users to analyze market trends in various aspects and dive deep into many industry sectors.",
-      "url": "https://birdeye.so/insights?chain=all",
+      "url": "https://birdeye.so/insights",
       "target": "_blank",
       "icon": "",
       "date": ""
@@ -11,15 +11,15 @@
     {
       "name": "Find Gems",
       "desc": "Find Gems is a feature that helps user identify potential Tokens at the current time.",
-      "url": "https://birdeye.so/find-gems?chain=all",
+      "url": "https://birdeye.so/find-gems",
       "target": "_blank",
       "icon": "",
       "date": ""
     },
     {
-      "name": "Launch Explorer",
+      "name": "Trenches",
       "desc": "Launch Explorer is a feature that enables users to access real-time data of tokens on popular launchpads like pump.fun, letsbonk.fun,...",
-      "url": "https://birdeye.so/launchpad?chain=all",
+      "url": "https://birdeye.so/solana/new-listings",
       "target": "_blank",
       "icon": "",
       "date": ""
@@ -29,7 +29,7 @@
     {
       "name": "Expansive data",
       "desc": "Birdeye provides expansive data covering tokens, wallets, trades, and protocols across 300+ exchanges on 10 chains.",
-      "url": "https://bds.birdeye.so/types-of-data",
+      "url": "https://birdeye.so/data-api/types-of-data",
       "target": "",
       "icon": "",
       "date": ""
@@ -37,7 +37,7 @@
     {
       "name": "Flexible pricing",
       "desc": "Whether you’re a solo tinkerer or a large team looking to scale, Birdeye offers plans that caters for your data needs and budget.",
-      "url": "https://bds.birdeye.so/pricing",
+      "url": "https://birdeye.so/data-api/pricing",
       "target": "",
       "icon": "",
       "date": ""
@@ -45,8 +45,8 @@
     {
       "name": "API docs",
       "desc": "Dive into our docs and start querying data on 60+ APIs and 8 WebSocket types today!",
-      "url": "https://docs.birdeye.so/reference/get-defi-price",
-      "target": "",
+      "url": "https://data.birdeye.so/docs/getting-started",
+      "target": "_blank",
       "icon": "",
       "date": ""
     }
